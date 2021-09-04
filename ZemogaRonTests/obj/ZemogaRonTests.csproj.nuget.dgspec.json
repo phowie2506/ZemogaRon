@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ronnie\\source\\repos\\ZemogaRonTests\\ZemogaRonTests.csproj": {}
+    "C:\\Users\\Ronnie\\source\\repos\\Zemoga\\ZemogaRonTests\\ZemogaRonTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ronnie\\source\\repos\\ZemogaRonTests\\ZemogaRonTests.csproj": {
+    "C:\\Users\\Ronnie\\source\\repos\\Zemoga\\ZemogaRonTests\\ZemogaRonTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ronnie\\source\\repos\\ZemogaRonTests\\ZemogaRonTests.csproj",
+        "projectUniqueName": "C:\\Users\\Ronnie\\source\\repos\\Zemoga\\ZemogaRonTests\\ZemogaRonTests.csproj",
         "projectName": "ZemogaRonTests",
-        "projectPath": "C:\\Users\\Ronnie\\source\\repos\\ZemogaRonTests\\ZemogaRonTests.csproj",
+        "projectPath": "C:\\Users\\Ronnie\\source\\repos\\Zemoga\\ZemogaRonTests\\ZemogaRonTests.csproj",
         "packagesPath": "C:\\Users\\Ronnie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ronnie\\source\\repos\\ZemogaRonTests\\obj\\",
+        "outputPath": "C:\\Users\\Ronnie\\source\\repos\\Zemoga\\ZemogaRonTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ronnie\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": ".NETCoreApp,Version=v5.0",
             "projectReferences": {
-              "C:\\Users\\Ronnie\\source\\repos\\ZemogaRon\\ZemogaRon.csproj": {
-                "projectPath": "C:\\Users\\Ronnie\\source\\repos\\ZemogaRon\\ZemogaRon.csproj"
+              "C:\\Users\\Ronnie\\source\\repos\\Zemoga\\ZemogaRon\\ZemogaRon.csproj": {
+                "projectPath": "C:\\Users\\Ronnie\\source\\repos\\Zemoga\\ZemogaRon\\ZemogaRon.csproj"
               }
             }
           }
@@ -80,14 +80,14 @@
         }
       }
     },
-    "C:\\Users\\Ronnie\\source\\repos\\ZemogaRon\\ZemogaRon.csproj": {
+    "C:\\Users\\Ronnie\\source\\repos\\Zemoga\\ZemogaRon\\ZemogaRon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ronnie\\source\\repos\\ZemogaRon\\ZemogaRon.csproj",
+        "projectUniqueName": "C:\\Users\\Ronnie\\source\\repos\\Zemoga\\ZemogaRon\\ZemogaRon.csproj",
         "projectName": "ZemogaRon",
-        "projectPath": "C:\\Users\\Ronnie\\source\\repos\\ZemogaRon\\ZemogaRon.csproj",
+        "projectPath": "C:\\Users\\Ronnie\\source\\repos\\Zemoga\\ZemogaRon\\ZemogaRon.csproj",
         "packagesPath": "C:\\Users\\Ronnie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ronnie\\source\\repos\\ZemogaRon\\obj\\",
+        "outputPath": "C:\\Users\\Ronnie\\source\\repos\\Zemoga\\ZemogaRon\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ronnie\\AppData\\Roaming\\NuGet\\NuGet.Config",

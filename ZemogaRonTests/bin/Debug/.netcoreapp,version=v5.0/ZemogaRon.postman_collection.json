@@ -1,0 +1,139 @@
+{
+	"info": {
+		"_postman_id": "470b280c-493e-47bf-9eec-fd3173872a8b",
+		"name": "ZemogaRon",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Get All posts",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": null
+			},
+			"response": []
+		},
+		{
+			"name": "Add Post",
+			"request": {
+				"auth": {
+					"type": "apikey",
+					"apikey": [
+						{
+							"key": "value",
+							"value": "writterpermissions",
+							"type": "string"
+						},
+						{
+							"key": "key",
+							"value": "KeyToLogin",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"userId\": 1,\r\n  \"title\": \"Prueba desde postman\",\r\n  \"bodycontent\": \"Hola\",\r\n  \"creation\": \"2021-09-03T05:23:33.926Z\",\r\n  \"state\": 1\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:44397/api/Posts/AddNewPost",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44397",
+					"path": [
+						"api",
+						"Posts",
+						"AddNewPost"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GetByUserId",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": null
+			},
+			"response": []
+		},
+		{
+			"name": "UpdatePost",
+			"request": {
+				"auth": {
+					"type": "apikey",
+					"apikey": [
+						{
+							"key": "value",
+							"value": "writterpermissions",
+							"type": "string"
+						},
+						{
+							"key": "key",
+							"value": "KeyToLogin",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"Id\": 1,\r\n  \"userId\": 1,\r\n  \"title\": \"Prueba de modificacion postman 1\",\r\n  \"bodycontent\": \"Hola\",\r\n  \"creation\": \"2021-09-03T05:23:33.926Z\",\r\n  \"state\": 1\r\n}"
+				},
+				"url": {
+					"raw": "https://localhost:44397/api/Posts/ModifyPost",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44397",
+					"path": [
+						"api",
+						"Posts",
+						"ModifyPost"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "updatepostState",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": null
+			},
+			"response": []
+		},
+		{
+			"name": "Add Comment",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": null
+			},
+			"response": []
+		},
+		{
+			"name": "Get Comments by Post",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": null
+			},
+			"response": []
+		}
+	]
+}

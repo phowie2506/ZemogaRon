@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s+WRvoW1gn/8mb2Cr54sT4lNrJho2GBHyKL6qImE8vMsBPjS9NMgf42HwFjlkJuEJY0s0IjgSj6S3nrk+Td/Nw==",
+  "dgSpecHash": "xMyPan403HDOdoG9+FK/J62coUWSlzDTW3Oj8PbFjMQ9xxirzqBOh6m364hI/Ud2Yv+tpNsWgnTRrJV+Cxuh7g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ronnie\\source\\repos\\ZemogaRonTests\\ZemogaRonTests.csproj",
+  "projectFilePath": "C:\\Users\\Ronnie\\source\\repos\\Zemoga\\ZemogaRonTests\\ZemogaRonTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ronnie\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\Ronnie\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",

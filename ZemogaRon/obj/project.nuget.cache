@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ct7rbdL6j3Jboir3eMjVpSWZ+quwhwkESPWSwXAMDinUIFoxUFuRaWW9UTF4C22lLVXjRpD0HmyZgKX3Evf8kQ==",
+  "dgSpecHash": "rEnZrc5dYb/MjSUevc1JJAA3vhVFNqOSFanqAb/sBtvPatrPUKz5uTYo1Sdri4HjaVlrub1stK0Ulj4o7FUnKg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ronnie\\source\\repos\\ZemogaRon\\ZemogaRon.csproj",
+  "projectFilePath": "C:\\Users\\Ronnie\\source\\repos\\Zemoga\\ZemogaRon\\ZemogaRon.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ronnie\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Ronnie\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

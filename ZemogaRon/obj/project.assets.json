@@ -7334,11 +7334,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ronnie\\source\\repos\\ZemogaRon\\ZemogaRon.csproj",
+      "projectUniqueName": "C:\\Users\\Ronnie\\source\\repos\\Zemoga\\ZemogaRon\\ZemogaRon.csproj",
       "projectName": "ZemogaRon",
-      "projectPath": "C:\\Users\\Ronnie\\source\\repos\\ZemogaRon\\ZemogaRon.csproj",
+      "projectPath": "C:\\Users\\Ronnie\\source\\repos\\Zemoga\\ZemogaRon\\ZemogaRon.csproj",
       "packagesPath": "C:\\Users\\Ronnie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ronnie\\source\\repos\\ZemogaRon\\obj\\",
+      "outputPath": "C:\\Users\\Ronnie\\source\\repos\\Zemoga\\ZemogaRon\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ronnie\\AppData\\Roaming\\NuGet\\NuGet.Config",
