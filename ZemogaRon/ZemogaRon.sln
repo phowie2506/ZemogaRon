@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZemogaRon", "ZemogaRon.csproj", "{5A3978C9-D171-4DA8-8E12-20AC85511B57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZemogaRonTests", "..\ZemogaRonTests\ZemogaRonTests.csproj", "{CBF9648A-134D-45FE-91EA-41EF2406C620}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A3978C9-D171-4DA8-8E12-20AC85511B57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A3978C9-D171-4DA8-8E12-20AC85511B57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A3978C9-D171-4DA8-8E12-20AC85511B57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A3978C9-D171-4DA8-8E12-20AC85511B57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBF9648A-134D-45FE-91EA-41EF2406C620}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBF9648A-134D-45FE-91EA-41EF2406C620}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBF9648A-134D-45FE-91EA-41EF2406C620}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBF9648A-134D-45FE-91EA-41EF2406C620}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2ED9AF35-67F8-4689-AA1D-74CC7CEC4F1A}
+	EndGlobalSection
+EndGlobal
